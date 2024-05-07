@@ -73,7 +73,7 @@ bigimg:
 
   <li>Boston, Joshua, Patrick Rickert, James F. Spriggs II, & <a href="https://home.nicholaswaterbury.com/" target="_blank">Nicholas Waterbury</a>. "The Curious Case of the Migrating Seat: Understanding the Role of Senate Norms in Confirming Judges on the U.S. Courts of Appeals."</li>
   
-<li>Boston, Joshua & <a href="https://gregsasso.me/" target="_blank">Greg Sasso</a>. "Varieties of Capitalism and Intellectual Property Institutions: Are differences in patent dispute resolutions a byproduct of economic features?"</li>
+
 </ul>
 
 
