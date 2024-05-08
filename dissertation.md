@@ -1,19 +1,13 @@
 ---
 layout: page
 title: Joshua Boston
-subtitle: Dissertation Research
-description: Summary of my dissertation research
-use-site-title: true
-bigimg:
-  - "/img/wustl55.jpg": "WUSTL Law Library"
-  - "/img/wustl66.jpg": "WUSTL Law Library"
-  - "/img/ussc1.jpg": "Supreme Court of the United States"
-  - "/img/ussc2.jpg": "Supreme Court of the United States"
-  - "/img/ussc3.jpg": "Supreme Court of the United States"
+subtitle: BGSU Political Science
+description: Hypothetical Mission Statement
+use-site-title: false
 ---
 
-# Dissertation Summary
+# BGSU Political Science New Institute Hypothetical Mission Statement
 
-<p align="justify">What are the causes and consequences of opinion language on the U.S. Circuit Courts of Appeals? Much of the burgeoning literature on judicial opinion writing has utilized data from the Supreme Court to find evidence of language borrowing, strategic opinion formation, and consequences for bureaucratic implementation. Still, this scholarship has, first, not coalesced toward an over-arching understanding of judicial writing, and second, not expanded focus to other U.S. federal judicial actors---especially the circuit courts, which are essentially the court of last resort for nearly all federal litigants. My dissertation takes advantage of this scholarly void by identifying the opportunities and constraints that circuit judges face in crafting their opinions. I argue that circuit court judges are highly strategic in their opinion language. That is to say that judges consider hierarchical and horizontal constraints, and how their opinion language can induce downstream compliance. To achieve this, I collect over 50,000 U.S. circuit court opinions (2000-2010), which I utilize for text analysis to generate two measures of writing style: cognitive complexity and stylistic language. In the first chapter, I establish the theoretical microfoundations regarding opinion writing, after which I present my measures of writing style. The second chapter presents an application utilizing opinion complexity, whereby I show how circuit judges write their opinions strategically, especially concerning Supreme Court preferences. Finally, I utilize both writing style measures in the third chapter, wherein I provide evidence that circuit judges will deviate from their overall writing styles in order to achieve unanimity on a circuit panel, which has broad implications for doctrinal implementation in downstream courts.</p>
+<p align="justify">The Ohio Democracy Institute is a nonpartisan scholarly, pedagogical, and public engagement organization at Bowling Green State University. The institute supports social scientific research, teaching, and public-facing events that examine contemporary issues of government, politics, and public policy, with particular focus on issues and challenges facing the state of Ohio. The Institute runs the BGSU Poll, which regularly surveys the Ohio public on their attitudes and preferences about political issues and elections. [more here] In doing so, the Institute serves as neutral, nonpartisan a bridge between scholars, students, policymakers, and the general public. Through unbiased empirical research and events, the Institute addresses many of the pressing issues facing Ohio, America, and the world today. </p>
 
 
