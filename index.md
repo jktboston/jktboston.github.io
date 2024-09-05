@@ -4,18 +4,18 @@ title: Joshua Boston, PhD
 subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
-  - "/img/stl4.jpg": "Washington University in St. Louis"
-  - "/img/wustl99.jpg": "Washington University in St. Louis"
-  - "/img/wustl55.jpg": "Washington University in St. Louis"
+  - "/img/williams1.jpg": "Bowling Green State University"
+  - "/img/williams2.jpg": "Bowling Green State University"
+  - "/img/univhall1.jpg": "Bowling Green State University"
+  - "/img/wood.jpg": "Wood County (OH) Courthouse"
   - "/img/fourth.jpg": "United States Court of Appeals for the Fourth Circuit"
   - "/img/fifth.jpg": "United States Court of Appeals for the Fifth Circuit"
   - "/img/sixth.jpg": "United States Court of Appeals for the Sixth Circuit"
   - "/img/ussc1.jpg": "Supreme Court of the United States"
   - "/img/ussc3.jpg": "Supreme Court of the United States"
-  - "/img/williams1.jpg": "Bowling Green State University"
-  - "/img/williams2.jpg": "Bowling Green State University"
-  - "/img/univhall1.jpg": "Bowling Green State University"
-  - "/img/wood.jpg": "Wood County (OH) Courthouse"
+  - "/img/stl4.jpg": "Washington University in St. Louis"
+  - "/img/wustl99.jpg": "Washington University in St. Louis"
+  - "/img/wustl55.jpg": "Washington University in St. Louis"
 ---
 
 
