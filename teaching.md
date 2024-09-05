@@ -21,20 +21,20 @@ bigimg:
 
 <p align="justify">Teaching is something that excites me! I enjoy working with students. I do my best to make myself as available as possible for research, mentoring, discussions about career path/graduate school, extracurricular advising, and personal/community-building conversations. I find that in-class discussions often lead to promising research questions both for me and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
 
-During the Fall 2023 semester, Prof. Boston is on leave and will not be holding office hours. Please reach out to him directly if you wish to set up a meeting. 
+During the Fall 2024 semester, Prof. Boston has office hours in Mondays and Wednesdays from 11:30 a.m. to 12:20 p.m. 
 
 If you cannot make it to office hours or you need to have a more detailed meeting, you can schedule it by <a href="mailto:jboston@bgsu.edu" target="_blank">emailing Prof. Boston.</a>
 
 ### Courses
 #### Bowling Green State University
-  * POLS 1100: American Government: Processes and Structure (Fall 2019-Summer 2021, Spring 2022, Summer 2022, Summer 2023)
-  * POLS 4160: Constitutional Law---Powers and Relationships (Spring 2020, Spring 2022)
-  * POLS 4170: Constitutional Law---Procedural Rights (Fall 2021, Spring 2023)
-  * POLS 4180: Constitutional Law---Substantive Rights (Fall 2022, Spring 2024)
+  * POLS 1100: American Government: Processes and Structure (Fall 2019-Spring 2021, Spring 2022, Fall 2024)
+  * POLS 4160: Constitutional Law---Powers and Relationships (Spring 2020, Spring 2022, Fall 2024)
+  * POLS 4170: Constitutional Law---Procedural Rights (Fall 2021, Spring 2024, Spring 2025)
+  * POLS 4180: Constitutional Law---Substantive Rights (Fall 2022, Spring 2024, Fall 2025)
   * POLS 4260: Law & Society (Fall 2020, Spring 2022, Spring 2023, Spring 2024)
-  * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019, Spring 2021, Fall 2022)
-  * POLS 4900: Research Lab (Spring 2023, Spring 2024)
-  * POLS 4920: Field Study in Public Law  (Spring 2020)
+  * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019, Spring 2021, Fall 2022, Fall 2024)
+  * POLS 4900: Research Lab (Spring 2023, Spring 2025)
+  * POLS 4920: Field Study in Public Law  (Spring 2020, Spring 2024)
   * POLS 5260: Graduate Seminar in Law & Society (Fall 2020)
 
 #### Washington University in St. Louis
