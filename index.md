@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joshua Boston, PhD
-subtitle: Assistant Professor, Bowling Green State University
+subtitle: Associate Professor, Bowling Green State University
 use-site-title: true
 bigimg:
   - "/img/stl4.jpg": "Washington University in St. Louis"
