@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 
-<p>My CV is available <a href="https://www.dropbox.com/scl/fo/cuaqzt1hik3zfy90aep07/ALzZ5ic2MmRMv4rTtEyENwg?rlkey=mnrepcmd7e3h7h2889qhsy45x&dl=0">here</a>.</p>
+<p>My CV is available <a href="https://www.dropbox.com/scl/fi/znzbxktc40xp7yjjna6w6/Boston_CV_sept2024.pdf?rlkey=we52l3qd8mytsgikjuxb53bpg&dl=0﻿﻿">here</a>.</p>
 
 <p>Information on my conference activities, including service as a chair/discussant, is available <a href="https://www.dropbox.com/s/pbmy8zpvv8o61og/Boston_Conf_sept2022.pdf?dl=0" target="_blank">here</a>.</p>
 
