@@ -14,8 +14,6 @@ bigimg:
   - "/img/ussc3.jpg": "Supreme Court of the United States"
 ---
 
-<p>At the embedded links, you may access my <a href="https://www.dropbox.com/s/dmzzub188umxubw/Boston_CV_july2023.pdf?dl=0" target="_blank">CV</a>, <a href="https://www.dropbox.com/s/pbmy8zpvv8o61og/Boston_Conf_sept2022.pdf?dl=0" target="_blank">conference participations</a>, and <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl" target="_blank">Google scholar</a>.</p>
-
 
 <p><b>Refereed Articles</b></p>
 
