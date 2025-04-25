@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 
-<p>My CV is available <a href="https://www.dropbox.com/scl/fi/znzbxktc40xp7yjjna6w6/Boston_CV_sept2024.pdf?rlkey=we52l3qd8mytsgikjuxb53bpg&dl=0﻿﻿">here</a>.</p>
+<p>My CV is available <a href="https://www.dropbox.com/scl/fi/hwlnzz6xlzkb8c1xvm81h/Boston_CV_2025.pdf?rlkey=lvn4g1fiaks5tvntymrucrxhw&dl=0﻿﻿">here</a>.</p>
 
 <p>Check out my Google Scholar profile <a href="https://scholar.google.com/citations?user=hKBsYfwAAAAJ&hl=en&oi=ao" target="_blank">here</a>.</p>
 
