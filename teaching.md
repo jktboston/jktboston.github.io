@@ -45,7 +45,7 @@ If you cannot make it to office hours or you need to have a more detailed meetin
   * PSC 303: Constitutional Law (Summer 2013)
   * PSC 306: The American Presidency (Summer 2012)
 
-#### Buffalo State College, SUNY
+#### SUNY Buffalo State University
   * PSC 101: Introduction to Government and Politics (Spring 2013)
   * PSC 102: Introduction to American Politics (Spring 2013)
   
