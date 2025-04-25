@@ -23,9 +23,9 @@ bigimg:
 
 <ul style="list-style-type:circle;">
 
-<li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher N. Krewson</a>. 2025. "The Political Court: Newspaper Coverage, Appointment Politics, and Public Support of the United States Supreme Court, 1980–2023." <em>Political Communication</em>.</li>
+<li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher N. Krewson</a>. 2025. <a href="https://doi.org/10.1080/10584609.2025.2467905" target="_blank">"The Political Court: Newspaper Coverage, Appointment Politics, and Public Support of the United States Supreme Court, 1980–2023."</a> <em>Political Communication</em>.</li>
 
-<li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher N. Krewson</a>. 2024. "Public Approval of the Supreme Court and Its Implications for Legitimacy." <em>Political Research Quarterly</em>.</li>
+<li>Boston, Joshua & <a href="https://www.christopherkrewson.com/" target="_blank">Christopher N. Krewson</a>. 2024. <a href="https://doi.org/10.1177/106591292412430" target="_blank">""Public Approval of the Supreme Court and Its Implications for Legitimacy."</a> <em>Political Research Quarterly</em>.</li>
 
 <li>Boston, Joshua & <a href="http://www.bernardosilveira.net/" target="_blank">Bernardo S. Silveira</a>. 2024. <a href="https://doi.org/10.1017/jlc.2022.19" target="_blank">"The Electoral Connection in Court: How Sentencing Responds to Voter Preferences."</a> <em>Journal of Law & Courts</em>.</li>
   
