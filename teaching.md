@@ -21,7 +21,7 @@ bigimg:
 
 <p align="justify">Teaching is something that excites me! I enjoy working with students. I do my best to make myself as available as possible for research, mentoring, discussions about career path/graduate school, extracurricular advising, and personal/community-building conversations. I find that in-class discussions often lead to promising research questions both for me and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
 
-During the Fall 2024 semester, Prof. Boston has office hours in Mondays and Wednesdays from 11:30 a.m. to 12:20 p.m. 
+During the summer months, Prof. Boston is available for virtual meetings scheduled at our mutual convenience. 
 
 If you cannot make it to office hours or you need to have a more detailed meeting, you can schedule it by <a href="mailto:jboston@bgsu.edu" target="_blank">emailing Prof. Boston.</a>
 
