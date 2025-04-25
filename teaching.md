@@ -27,15 +27,15 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 
 ### Courses
 #### Bowling Green State University
-  * POLS 1100: American Government: Processes and Structure (Fall 2019-Spring 2021, Spring 2022, Fall 2024)
+  * POLS 1100: American Government: Processes and Structure (Fall 2019-Spring 2021, Spring 2022, Fall 2024, Fall 2025)
   * POLS 4160: Constitutional Law---Powers and Relationships (Spring 2020, Spring 2022, Fall 2024)
   * POLS 4170: Constitutional Law---Procedural Rights (Fall 2021, Spring 2024, Spring 2025)
   * POLS 4180: Constitutional Law---Substantive Rights (Fall 2022, Spring 2024, Fall 2025)
-  * POLS 4260: Law & Society (Fall 2020, Spring 2022, Spring 2023, Spring 2024)
+  * POLS 4260: Law & Society (Fall 2020, Spring 2022, Spring 2023, Spring 2024, Fall 2025)
   * POLS 4240: Supreme Court and Contemporary Issues (Fall 2019, Spring 2021, Fall 2022, Fall 2024)
-  * POLS 4900: Research Lab (Spring 2023, Spring 2025)
-  * POLS 4920: Field Study in Public Law  (Spring 2020, Spring 2024)
-  * POLS 5260: Graduate Seminar in Law & Society (Fall 2020)
+  * POLS 4900: Capstone: Analyizing Political Problems (Spring 2023, Spring 2024, Spring 2025, Spring 2026)
+  * POLS 4920: Field Study in Public Law  (Spring 2020, Spring 2024, Sping 2025)
+  * POLS 5260: Graduate Seminar in Law & Society (Fall 2020, Fall 2025)
 
 #### Washington University in St. Louis
   * PS 419: Teaching Assistant Practicum (Fall 2015, Fall 2016)
