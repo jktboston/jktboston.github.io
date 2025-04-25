@@ -7,7 +7,7 @@ title: Contact Prof. Boston
 <p style="margin-top: 20px;"> </p>
 <p>E-mail address: <a href="mailto:jboston@bgsu.edu" target="_blank">jboston@bgsu.edu</a> </p>
 
-<p>Fall 2023 Office Hours: by appointment only. </p>
+<p>Summer 2025 Office Hours: virtual and by appointment only. </p>
 
 <p>Please <a href="mailto:jboston@bgsu.edu" target="_blank">email Prof. Boston</a> to schedule a meeting outside office hours. </p>
 
