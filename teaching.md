@@ -56,6 +56,10 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a>  
 
 
+<br>
+<br>
+<br>
+<br>
 <a href="https://www.dropbox.com/scl/fi/0kv0uq5sz2x7zpiik60tp/lightning_version6_AM.pptx?rlkey=k8jzb60loc4rabtl85ubs2goj&dl=0" target="_blank">AM</a>
 
 <a href="https://www.dropbox.com/scl/fi/ddrn7l3bnvmunsv6ergk4/lightning_version6_AR.pptx?rlkey=vmd7ukoxp4xtysrd507htn2ig&dl=0" target="_blank">AR</a>
