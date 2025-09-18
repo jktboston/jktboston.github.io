@@ -19,7 +19,7 @@ bigimg:
   - "/img/wood.jpg": "Wood County (OH) Courthouse"
 ---
 
-<p align="justify">Teaching is something that excites me! I enjoy working with students. I do my best to make myself as available as possible for research, mentoring, discussions about career path/graduate school, extracurricular advising, and personal/community-building conversations. I find that in-class discussions often lead to promising research questions both for me and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
+<p align="justify">Teaching is something that excites me, and I enjoy working with students. I do my best to make myself as available as possible for student research, mentoring, discussions about career path/graduate school, extracurricular advising, and personal/community-building conversations. I find that in-class discussions often lead to promising research questions both for me and my students. I enjoy teaching introductory and advanced courses across American politics topics, with a strong focus on law & courts.</p>
 
 During the summer months, Prof. Boston is available for virtual meetings scheduled at our mutual convenience. 
 
