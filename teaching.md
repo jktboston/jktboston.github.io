@@ -53,7 +53,7 @@ If you cannot make it to office hours or you need to have a more detailed meetin
 <p><img align="left" style="padding: 0 15px; width: 20%; height: 20%" src="https://www.joshuaboston.com/img/TandLcertificatebadge20192.jpg"></p>
 <p style="margin-top: 10px;"> </p>
 
-During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a> 
+During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching and Learning Certificate Program as part of the Center for Faculty Excellence. Across a series of professional development workshops, ranging in topic from inclusive pedagogy to active learning strategies, the program provided me and other faculty member with many <a href="https://www.bgsu.edu/center-for-faculty-excellence/get-certified/bgsu-teaching-and-learning-certificate-program.html" target="_blank">"opportunities [...] to explore current, innovative, and effective teaching strategies that support student success.''</a>  <a href="https://www.dropbox.com/scl/fi/i75u4y3h0zws6nfeet3vm/lightning_version6.pptx?rlkey=ghe88c8ov9mb697fkzslnvulj&dl=0" target="_blank">"...''</a>
 
 
 
