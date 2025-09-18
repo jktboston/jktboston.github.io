@@ -74,6 +74,8 @@ During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching
 
 <a href="https://www.dropbox.com/scl/fi/moygjtj6uyeir7r38713n/lightning_version6_MS.pptx?rlkey=mvpbljvehq42p85tto6nrbnb2&dl=0" target="_blank">MS</a>
 
+<a href="https://www.dropbox.com/scl/fi/u69ys7l88l19i7zwffu9m/lightning_version6_ADA.pptx?rlkey=x7r34fxrzijebj4px3xsd94gs&dl=0" target="_blank">MS_edis</a>
+
 
 
 
