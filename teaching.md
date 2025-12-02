@@ -60,21 +60,11 @@ During the 2019-2020 and 2020-2021 academic years, I completed the BGSU Teaching
 <br>
 <br>
 <br>
-<a href="https://www.dropbox.com/scl/fi/0kv0uq5sz2x7zpiik60tp/lightning_version6_AM.pptx?rlkey=k8jzb60loc4rabtl85ubs2goj&dl=0" target="_blank">AM</a>
+<a href="https://www.dropbox.com/scl/fi/anys0cmtli8osbppaelki/Talk-3.pdf?rlkey=3y51eou7kt4v0v42nininh5wk&dl=0" target="_blank">1</a>
 
-<a href="https://www.dropbox.com/scl/fi/ddrn7l3bnvmunsv6ergk4/lightning_version6_AR.pptx?rlkey=vmd7ukoxp4xtysrd507htn2ig&dl=0" target="_blank">AR</a>
+<a href="https://www.dropbox.com/scl/fi/r5a8cweqk58z6pyo8t2ho/Talk-3-copy.pdf?rlkey=8gcq19i3zj2sqzxkqrwa2sqhh&dl=0" target="_blank">2</a>
 
-<a href="https://www.dropbox.com/scl/fi/088u39ys03c857xroptzw/lightning_version6_AS.pptx?rlkey=mu67qwislkxr09b109bavim5t&dl=0" target="_blank">AS</a>
 
-<a href="https://www.dropbox.com/scl/fi/do4dbxoefu72pfhmrhtq8/lightning_version6_CK.pptx?rlkey=3sihsok339euev5qo05bs6cz9&dl=0" target="_blank">CK</a>
-
-<a href="https://www.dropbox.com/scl/fi/16h111gncx2n5s5bemliq/lightning_version6_DL.pptx?rlkey=lj4nm58vq44vo2b85gkxs4rzp&dl=0" target="_blank">DL</a>
-
-<a href="https://www.dropbox.com/scl/fi/d1p9ijc2q5p161v1somf6/lightning_version6_DM.pptx?rlkey=cr82cqk1r6det92jik1wa481z&dl=0" target="_blank">DM</a>
-
-<a href="https://www.dropbox.com/scl/fi/moygjtj6uyeir7r38713n/lightning_version6_MS.pptx?rlkey=mvpbljvehq42p85tto6nrbnb2&dl=0" target="_blank">MS</a>
-
-<a href="https://www.dropbox.com/scl/fi/u69ys7l88l19i7zwffu9m/lightning_version6_ADA.pptx?rlkey=x7r34fxrzijebj4px3xsd94gs&dl=0" target="_blank">MS_edis</a>
 
 
 
